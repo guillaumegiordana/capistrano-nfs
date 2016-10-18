@@ -1,5 +1,5 @@
 module Capistrano
-  module Nfs
-    VERSION = "0.1.0"
+  module NFS
+    VERSION = "0.2.0"
   end
 end
